@@ -47,7 +47,7 @@ export const BRAND: BrandConfig = {
     "https://res.cloudinary.com/apvcphao/image/upload/v1785396713/shop_8de07a672aec.webp",
     "https://res.cloudinary.com/apvcphao/image/upload/v1785396705/shop_29a3820d6b03.webp",
     "https://res.cloudinary.com/apvcphao/image/upload/v1785396716/shop_397d2e5109ed.webp",
-    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdxuE2H4p1pyf1OEFU2yt4Ov2WBRh_73KFTS79UjzXTdaOjJGd2jmNUpgPCW_I9kleLsVWTFiJbVX1NSVjVkwDY7iZGHWSho1IOgr2SWreH=s1600",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785400408/fix_5f3ba8d55961.webp"
   ],
 
   address: "Opposite Govt Hospital, Pala, Kottayam, Kerala 686575",
