@@ -44,9 +44,9 @@ export const BRAND: BrandConfig = {
   ],
 
   storeImages: [
-    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1ah4kYhh_8OuVZUXVe9lSWzL9oE9yIETxH1Au_bp4Jy5Z5lfxAblDPjwcE5HNGJruddykZVJHkDAf08p1vSe37Q6ooM87LbT5A91Z__9DxYltLIdfBVFqEBj4AnVCd-0WA2hO=s1600",
-    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlyxvXTlw5aMoA3C6i3YnUxDGKiA-q081a7PPvbkBUXUSwMsapKIBA6V8bAbHgzmPmuBSFP0RdZ7zSATBKyQUTM8TfZD_GDm7PJltHM_C_CtBDsC7z61k_bjejwI8r3AwHsDu8=s1600",
-    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRQBpQFhCEActhyjE1pnkKv-6dYuReL0vCma8QbS5TmbabLRnxYXX7MsmBfr9yQ4ZeeoAHv4kaRTEtbhBTrdzWHasmJqeSw-SHH3Vcw2YAsKUCnnBcgjx8JbmQp1rHzO-suWku=s1600",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785396713/shop_8de07a672aec.webp",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785396705/shop_29a3820d6b03.webp",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785396716/shop_397d2e5109ed.webp",
     "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdxuE2H4p1pyf1OEFU2yt4Ov2WBRh_73KFTS79UjzXTdaOjJGd2jmNUpgPCW_I9kleLsVWTFiJbVX1NSVjVkwDY7iZGHWSho1IOgr2SWreH=s1600",
   ],
 
@@ -83,7 +83,7 @@ export const BRAND: BrandConfig = {
     ],
     canonical: "https://pala-gold-covering-jewellery-pala-town.vercel.app",
     ogImage:
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1ah4kYhh_8OuVZUXVe9lSWzL9oE9yIETxH1Au_bp4Jy5Z5lfxAblDPjwcE5HNGJruddykZVJHkDAf08p1vSe37Q6ooM87LbT5A91Z__9DxYltLIdfBVFqEBj4AnVCd-0WA2hO=s1600",
+      "https://res.cloudinary.com/apvcphao/image/upload/v1785396713/shop_8de07a672aec.webp",
   },
 
   faq: [],
